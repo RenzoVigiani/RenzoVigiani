@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RenzoVigiani
 - 👀 I’m interested in Electronic, BigData, Machinne-Learning, IoT, Telecomunications, etc.
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me... vigiani.renzo.l@gmail.com
 
